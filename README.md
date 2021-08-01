@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Excel_VBA_Homework
 This Repository containts my homework submission for VBA.
 It has 3 screenshots for year 2014, 2015 and 2016.
@@ -76,3 +77,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+=======
+# Excel_VBA_Homework.
+This Repository containts my homework submission for VBA.
+It has 3 screenshots for year 2014, 2015 and 2016.
+It has the Excel file xlsm. 
+It has the .bas file just in case.
+>>>>>>> 9bf84a4d0e5d9f73ac8cc7cd8d85e0bedeb3dd31
