@@ -82,4 +82,7 @@ This Repository containts my homework submission for VBA.
 It has 3 screenshots for year 2014, 2015 and 2016.
 It has the Excel file xlsm. 
 It has the .bas file just in case.
->>>>>>> 9bf84a4d0e5d9f73ac8cc7cd8d85e0bedeb3dd31
+
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
