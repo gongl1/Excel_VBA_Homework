@@ -4,6 +4,9 @@ It has 3 screenshots for year 2014, 2015 and 2016.
 It has the Excel file xlsm.
 It has the .bas file just in case.
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
 
 # VBA Homework - The VBA of Wall Street
 
